@@ -1,7 +1,7 @@
 # My websites:
-## [lhorimbere.github.io](lhorimbere.github.io)
+## [lhorimbere.github.io](http://lhorimbere.github.io)
 My websites (self referential)
-## My [CV](lhorimbere.github.io/CV-Landry-Horimbere.pdf)
+## My [CV](http://lhorimbere.github.io/CV-Landry-Horimbere.pdf)
 A short summary of my work and experience.
 ## Quesadilla
 An [energy visualization](http://mdahlhausen.github.io/quesadilla/) for the United States
