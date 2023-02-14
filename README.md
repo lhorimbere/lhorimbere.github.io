@@ -7,4 +7,4 @@ A short summary of my work and experience
 An [energy visualization](http://mdahlhausen.github.io/quesadilla/) for the United States
 )
 ## PAARC
-The Physics and Astronomy Anti-Racism Coalition ([PAARC](https://paarc.netlefy.com/)) is a collective of physicists and astronomers dedicated to confronting and dismantling racist structures in academia.
+The Physics and Astronomy Anti-Racism Coalition ([PAARC](https://paarc.netlify.com/)) is a collective of physicists and astronomers dedicated to confronting and dismantling racist structures in academia.
